@@ -1,0 +1,23 @@
+{
+  "name": "canvasallstar",
+  "version": "1.0.0",
+  "description": "Using trigonometry to create a all start shape on the canvas.",
+  "main": "server.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanpadilla/canvasAllStar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebanpadilla/canvasAllStar/issues"
+  },
+  "homepage": "https://github.com/estebanpadilla/canvasAllStar#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
