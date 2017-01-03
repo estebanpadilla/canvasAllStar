@@ -1,3 +1,7 @@
+/*
+Use lineTo and trigonometry to create a multy-shape star.
+*/
+
 window.addEventListener('load', init, false);
 function init() {
     var canvas = undefined;
